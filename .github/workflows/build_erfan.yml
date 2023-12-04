@@ -4,7 +4,7 @@ on: [push]
 
 env:
   ROM_URL: https://android.googleapis.com/packages/ota-api/package/9776e65996d77f1e54876b90c66fac6da68e4a63.zip
-  ROM_NAME: Generic
+  ROM_NAME: OneUI
   ZIP_NAME: Vos3_aris_pro_leeminh
   TZ: Asia/Kolkata
 jobs:
